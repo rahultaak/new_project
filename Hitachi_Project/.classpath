@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/new jar/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-continuation-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-http-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-jmx-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-security-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-server-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-servlet-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-servlets-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/selenium-java-2.48.2-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/websocket-api-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/websocket-client-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/websocket-common-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/old selenium jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/testing software/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
